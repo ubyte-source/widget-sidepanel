@@ -1,0 +1,26 @@
+{
+  "name": "widget/sidepanel",
+  "type": "library",
+  "description": "Javascript widget sidepanel",
+  "keywords": [
+    "ubyte",
+    "client-side",
+    "widget",
+    "sidepanel"
+  ],
+  "homepage": "https://github.com/energia-source/widget-sidepanel",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Paolo Fabris",
+      "email": "support@ubyte.it",
+      "homepage": "https://www.ubyte.it/",
+      "role": "Developer"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Sidepanel\\": "lib/"
+    }
+  }
+}
