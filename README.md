@@ -39,8 +39,8 @@ element.onClick(function(event){
 ## Structure
 
 library:
-    - [window.Sidepanel](https://github.com/energia-source/widget-sidepanel#class-windowsidepanel-usable-methods)
-    - [window.Sidepanel.Preloader](https://github.com/energia-source/widget-sidepanel#class-windowsidepanelpreloader-usable-methods)
+- [window.Sidepanel](https://github.com/energia-source/widget-sidepanel#class-windowsidepanel-usable-methods)
+- [window.Sidepanel.Preloader](https://github.com/energia-source/widget-sidepanel#class-windowsidepanelpreloader-usable-methods)
 
 <br>
 
